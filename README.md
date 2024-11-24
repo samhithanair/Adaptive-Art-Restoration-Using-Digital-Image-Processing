@@ -11,5 +11,5 @@ This project implements a comprehensive image restoration pipeline designed to e
 6. Signal-to-Noise Ratio (SNR) Calculation: Dynamically determines the need for noise reduction.
 7. Adaptive Restoration: Automatically applies restoration techniques based on image brightness, contrast, and noise levels.
 
-#Run the script
+# Run the script
 Run `restoration.ipynb`
