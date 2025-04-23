@@ -6,7 +6,7 @@ from restore import adaptive_restoration
 
 st.title("Image Restoration Tool")
 st.markdown("#### Samhitha Nair 21BAI1183 & Nigel Joe Tensing 21BAI1267")
-st.markdown("### Problem Statement: To create an application that adaptively restores the image based on the thresholds set with no artificial intelligence")
+st.text("Problem Statement: To create an application that adaptively restores the image based on the thresholds set with no artificial intelligence")
 
 uploaded_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
 
