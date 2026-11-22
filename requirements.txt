@@ -1,0 +1,8 @@
+# Tested with Python 3.14 on Windows 11.
+# Used by evaluate.py, restoration.ipynb and the local Streamlit run.
+# (streamlit/requirements.txt is the separate, unpinned list used for hosting.)
+numpy==2.5.5
+opencv-python-headless==5.1.0
+scikit-image==0.26.0
+pillow==13.0.0
+streamlit==1.67.0
